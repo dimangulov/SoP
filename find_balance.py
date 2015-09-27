@@ -21,7 +21,6 @@ def main():
 
 TARGET_SUM = 100
 
-
 def find100(numbers, index, currentSum):
     if index >= len(numbers):
         return False
